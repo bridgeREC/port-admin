@@ -1,0 +1,21 @@
+server:
+  port: 9999
+  address: 0.0.0.0
+
+spring:
+  datasource:
+    username: root
+    password: password
+    url: jdbc:mysql:///port
+#  security:
+#    user:
+#      name: 123
+#      password: 123123
+#      roles: admin
+
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-not-delete-value: 0
+      logic-delete-value: 1
