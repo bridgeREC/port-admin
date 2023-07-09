@@ -3,7 +3,7 @@
 - 毕业设计
 - Spring Boot、Spring Security
 - MYSQL
-- 前端基于vue-admin-template+element UI开发：https://github.com/bridgeREC/port
+- 前端基于vue-admin-template+element UI二次开发：https://github.com/bridgeREC/port
 
 #### 实现功能
 - [x] 注册登录功能
